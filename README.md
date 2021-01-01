@@ -1,7 +1,7 @@
 ### Wizley's Github
 
 <div align=left>
-  <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%wizleysw&count_bg=%233D41C8"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwizleysw&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wizley)](https://solved.ac/wizley)
