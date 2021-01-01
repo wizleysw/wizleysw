@@ -1,4 +1,6 @@
-### Hi there 👋
+### Wizley's Github
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wizley)](https://solved.ac/wizley)
 
 <!--
 **wizleysw/wizleysw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
