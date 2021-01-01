@@ -1,5 +1,9 @@
 ### Wizley's Github
 
+<div align=left>
+  <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%wizleysw&count_bg=%233D41C8"/></a>
+</div>
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wizley)](https://solved.ac/wizley)
 
 <!--
