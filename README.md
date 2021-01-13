@@ -16,7 +16,8 @@ Junior Android Developer
 
 # 🖥️ Algorithm
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wizley)](https://solved.ac/wizley)
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wizley)](https://solved.ac/wizley)
+
 
 # 🔭 Github
 
