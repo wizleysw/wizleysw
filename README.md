@@ -6,7 +6,7 @@ Junior Android Developer
 
 # 📚 Education
 
-- Computer and Information Security at Sejong University (2014.03 - Current)
+- Computer and Information Security at Sejong University (2014.03. - 2021.08.)
 
 # ⚡Languages
 
